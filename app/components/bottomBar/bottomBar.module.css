@@ -1,0 +1,15 @@
+
+.bottomWrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 10;
+    height: 85px;
+    padding: 5px 30px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+
+}

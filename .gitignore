@@ -1,0 +1,40 @@
+# Dependencias
+/node_modules/
+
+# Archivos de compilación y directorios de salida
+/.next/
+/out/
+/dist/
+/build/
+
+
+
+# Archivos de sistema y editor
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Archivos de TypeScript
+.tsbuildinfo
+
+# Archivos de registro
+npm-debug.log*
+
+
+# Directorios de cobertura de pruebas
+/coverage
+
+# Archivos de configuración de IDE (PyCharm)
+/.idea/
+
+# Archivos de cache de npm
+.npm/
+
+# Archivos de cache de nextjs
+.next/cache/
+
+# Archivos de configuración y cache de editor
+.vscode/
+*.iml
+*.idea/

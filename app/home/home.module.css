@@ -1,0 +1,18 @@
+.homeContainer {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    height: 100%;
+    width: 100%;
+}
+
+.homeWrapper {
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+

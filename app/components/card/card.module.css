@@ -1,0 +1,56 @@
+.cardWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    width: 360px;
+    height: 475px;
+    flex: 1 1 300px;
+}
+
+.weatherCard {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 320px;
+    text-align: center;
+    overflow: hidden;
+    border: 1px solid #dcdcdc;
+}
+
+.locationName {
+    margin: 0;
+    font-size: 32px;
+    color: #4285f4;
+    font-weight: bold;
+}
+
+.weatherInfo {
+    margin: 20px 0;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.weatherSummary {
+    color: #666;
+    font-size: 1em;
+}
+
+.additionalInfo {
+    height: 175px;
+    width: 280px;
+}
+
+.additionalInfo p {
+    margin: 4px 0;
+    color: #444;
+    font-size: 16px;
+}
+
+
+
+
